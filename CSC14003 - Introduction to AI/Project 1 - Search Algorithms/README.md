@@ -1,0 +1,2 @@
+- Source code about each algorithm is in file `student_functions.py`
+- You can see the example of command line in file `Main.py`
